@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -25,8 +25,6 @@
 		95D951CE25B3941B00670B76 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		95D951D025B3941B00670B76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		95D951D125B3941B00670B76 /* COVID_Mac_OS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = COVID_Mac_OS.entitlements; sourceTree = "<group>"; };
-		95D951D825B3943F00670B76 /* tests.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = tests.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		95D9520025B5A2DC00670B76 /* test2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = test2.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +62,6 @@
 			children = (
 				95D951C725B3941900670B76 /* COVID_Mac_OSApp.swift */,
 				95D951C925B3941900670B76 /* ContentView.swift */,
-				95D9520025B5A2DC00670B76 /* test2.playground */,
-				95D951D825B3943F00670B76 /* tests.playground */,
 				95D951CB25B3941B00670B76 /* Assets.xcassets */,
 				95D951D025B3941B00670B76 /* Info.plist */,
 				95D951D125B3941B00670B76 /* COVID_Mac_OS.entitlements */,
@@ -96,7 +92,6 @@
 				34E769F09542BAE733AE17E8 /* Pods-COVID_Mac_OS.debug.xcconfig */,
 				2C35D33DAAD1BBAFC0051419 /* Pods-COVID_Mac_OS.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
